@@ -72,7 +72,7 @@ TINYMCE_DEFAULT_CONFIG = {
 }
 
 FILEBROWSER_MAX_UPLOAD_SIZE=10485760 *100
-
+FILEBROWSER_DIRECTORY=''
 ### urls.py
 
 from filebrowser.sites import site
